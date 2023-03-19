@@ -86,6 +86,12 @@ response:
 }
 ```
 
+## Docker
+Generate docker image by Dockerfile.
+```bash
+$ docker pull luluo/jwt-cookie-project
+```
+
 ## Resource
 
 1. [Cookie、Session、Token与JWT解析](https://www.jianshu.com/p/cab856c32222)

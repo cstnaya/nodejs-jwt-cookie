@@ -1,1 +1,6 @@
-node_modules
+.git
+
+node_modules/
+
+# 如果你的 client files 會在建置時生成在 server/public 底下
+# 就把 server/public 加進來
